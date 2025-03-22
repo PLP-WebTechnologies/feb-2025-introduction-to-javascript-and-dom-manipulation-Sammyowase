@@ -1,0 +1,20 @@
+/* Add these styles to your existing CSS file */
+.controls {
+    margin: 20px 0;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+.content {
+    text-align: center;
+    padding: 20px;
+}
+
+.box {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 300px;
+    border-radius: 8px;
+}
